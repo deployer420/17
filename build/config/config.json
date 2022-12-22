@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x19E27B5754f6dd78CED58ee976ac19De1Cfbd834",
+  "SCAN_LINK": "https://etherscan.io/address/0x19E27B5754f6dd78CED58ee976ac19De1Cfbd834",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Memento MeMory",
+  "SYMBOL": "MEMMO",
+  "MAX_SUPPLY": 1666,
+  "WEI_COST": 33000000000000000,
+  "DISPLAY_COST": 0.033000000,
+  "GAS_LIMIT": 160000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/memento-memory",
+  "SHOW_BACKGROUND": true
+}
